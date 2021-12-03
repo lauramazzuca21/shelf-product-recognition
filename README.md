@@ -2,10 +2,10 @@
 Computer Vision and Image Processing exam project.
 
 ### Libraries
-The **python version** used in this project is **3.5**.  
+The **python version** used in this project is **3.8.8**.  
 The **python libraries** used in this project are:  
-- ``` numpy 1.14.3```
-- ``` openCV 3.4.1```
+- ``` numpy 1.21.3```
+- ``` openCV 4.5.4```
 - ``` matplotlib 2.2.2```
 
 ## Intro
